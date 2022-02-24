@@ -1,3 +1,4 @@
 informe nome
 informe email
 informe senha
+informe sua idade
